@@ -1,0 +1,4 @@
+In MEMORY DB
+REDIS STATE are in RAM which makes them fast.
+
+TTL --- time to live.
